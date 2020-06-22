@@ -42,3 +42,4 @@
         答：./code/part1-01-02-03-04.js
     
     4. 手写实现MyPromise源码
+    答：./code/part1-01-02-04.js
